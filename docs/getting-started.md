@@ -89,7 +89,7 @@ If you're integrating React Native into an existing project, [you can use the Ex
 
 The instructions are a bit different depending on your development operating system, and whether you want to start developing for iOS or Android. If you want to develop for both Android and iOS, that's fine - you can pick one to start with, since the setup is a bit different.
 
-#### Development OS
+#### Development OS 
 
 <Tabs groupId="os" defaultValue={constants.defaultOs} values={constants.oses} className="pill-tabs">
 <TabItem value="macos">
